@@ -29,7 +29,7 @@ Este epositório contém o material e os exemplos do Curso de Programação na P
    git clone https://github.com/pedrordcampos/Mini-Curso-de-Python---Rocketseat.git](https://github.com/pedrordcampos/Curso-de-Programacao-na-Pratica-Cubos-Academy.git
 
 ### Dúvidas? Entre em contato
-#### Pedro Ricardo de Campos - Whatspp (15) 9952-3275
+#### Pedro Ricardo de Campos - Whatspp (15) 99752-3275
 #### E-mail: pedro.rdcampos@hotmail.com
 #### Linkedin: https://www.linkedin.com/in/pedro-ricardo-de-campos/
 
