@@ -13,15 +13,15 @@
 </head>
 <body>
     <div class="container">
-        <sidebar>
-            <details open>
+        <sidebar class="sidebar">
+            <details open class="suggestions">
                 <summary>Tópicos sugeridos</summary>
                 <button>HTML</button>
                 <button>CSS</button>
                 <button>Javascript</button>
             </details>
 
-            <details open>
+            <details open class="historic">
                 <summary>Histórico</summary>
                 <button>Java</button>
                 <button>PHP</button>
@@ -29,9 +29,9 @@
         </sidebar>
 
         <div class="content">
-            <div class="content-message">
+            <div class="box-home">
                 <span>olá, eu sou o</span>
-                <h1>teach.me</h1>
+                <h1>teach<span>.me</span></h1>
                 <p>
                     Estou aqui para te ajudar nos seus estudos.
                     Selecione um dos tópicos sugeridos ao lado ou 
@@ -40,13 +40,13 @@
                 </p>
             </div>
 
-            <div class="content-form">
+            <div class="box-input">
                 <textarea placeholder="Insira o tema que deseja estudar..."></textarea>
                 <button>Enviar pergunta</button>
             </div>
 
-            <div class="content-baseboard">
-                teach.me
+            <div class="box-footer">
+                <p>teach<span>.me</span></p>
             </div>
         </div>
     </div>
