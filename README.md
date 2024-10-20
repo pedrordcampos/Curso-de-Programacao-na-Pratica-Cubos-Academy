@@ -19,17 +19,14 @@ Este epositório contém o material e os exemplos do Curso de Programação na P
 ### Pré-requisitos
 #### Visual Studio - Você pode fazer o download [aqui](https://visualstudio.microsoft.com/pt-br/downloads/).
 
+### Recomendação
+#### Utilização da extensão do visual code: Live Preview ou Live Server (Five Server)
+
 ### Instalação
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/pedrordcampos/Mini-Curso-de-Python---Rocketseat.git
-   
-
-
-6. Para rodar a aplicação
-   ```bash
-   python app.py
+   git clone https://github.com/pedrordcampos/Mini-Curso-de-Python---Rocketseat.git](https://github.com/pedrordcampos/Curso-de-Programacao-na-Pratica-Cubos-Academy.git
 
 ### Dúvidas? Entre em contato
 #### Pedro Ricardo de Campos - Whatspp (15) 9952-3275
