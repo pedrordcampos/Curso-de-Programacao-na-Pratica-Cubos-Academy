@@ -31,8 +31,9 @@ Este epositório contém o material e os exemplos do Curso de Programação na P
    git clone https://github.com/pedrordcampos/Mini-Curso-de-Python---Rocketseat.git](https://github.com/pedrordcampos/Curso-de-Programacao-na-Pratica-Cubos-Academy.git
 
 2. Instale as dependências
-```bash
-npm install react@18.2.0 react-dom@18.2.0 @types/react@18.2.37 @types/react-dom@18.2.15
+   ```bash
+   npm install react@18.2.0 react-dom@18.2.0 @types/react@18.2.37 @types/react-dom@18.2.15
+
 
 
 ### Dúvidas? Entre em contato
