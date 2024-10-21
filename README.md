@@ -34,8 +34,6 @@ Este epositório contém o material e os exemplos do Curso de Programação na P
    ```bash
    npm install react@18.2.0 react-dom@18.2.0 @types/react@18.2.37 @types/react-dom@18.2.15
 
-
-
 ### Dúvidas? Entre em contato
 #### Pedro Ricardo de Campos - Whatspp (15) 99752-3275
 #### E-mail: pedro.rdcampos@hotmail.com
